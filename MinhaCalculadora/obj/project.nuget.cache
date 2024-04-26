@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjwoHBe6/w/OWnWAIyEKrPxLjazG6NYg62vZSpRW9ldSO2CPasqEOQbU3OUAJnAdEUlDi7juP9RLi4jmfw8dYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jorge\\Documents\\TDD_Calculadora\\MinhaCalculadora\\MinhaCalculadora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\jorge\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
